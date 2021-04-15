@@ -1,0 +1,89 @@
+.container {
+    width: 100%;
+}
+
+section {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px dashed #444;
+}
+
+.block {
+    width: 75px;
+    height: 75px;
+    margin: 25px;
+    border: 2px solid #333;
+}
+
+.active {
+    background: orange;
+}
+
+.hide {
+    display: none;
+}
+
+.keyboard {
+    border: 2px solid #695151;
+    width: max-content;
+    border-radius: 4px;
+    padding: 5px;
+    margin-top: 20px;
+    background-color: #F5F5F5;
+}
+
+.line {
+    display: flex;
+}
+
+.key {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid grey;
+    border-radius: 3px;
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgb(226, 218, 213);
+
+}
+
+.bigKey {
+    width: 100px;
+}
+
+.specialKey {
+    width: 92px;
+}
+
+.shift {
+    width: 147px;
+}
+
+.space {
+    width: 466px
+}
+
+.enter {
+    width: 122px;
+}
+
+.tab {
+    width: 80px;
+}
+
+.slash {
+    width: 70px;
+}
+
+.colorKey {
+    background-color: #292828;
+    transition: background-color 0.2s;
+}
+
+.fontColor {
+    color: white;
+    transition: color 0.2s;
+}
