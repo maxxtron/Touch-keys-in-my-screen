@@ -3,4 +3,5 @@
 * Caps Lock button implemented</br>
 * Using Java event listener and flexbox</br></br>
 ## Example:</br>
-![Илюстрация картинки](https://github.com/maxxtron/project-photo/blob/main/Keyboard.png)
+![Илюстрация картинки](https://files.fm/thumb_show.php?i=8x2uem6gk)
+
